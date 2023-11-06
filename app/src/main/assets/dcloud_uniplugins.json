@@ -34,7 +34,7 @@
         {
           "type": "module",
           "name": "alive",
-          "class": "com.example.keepalive.ExampleInstrumentedTest"
+          "class": "com.example.keepalive.test"
         }
       ]
     }
