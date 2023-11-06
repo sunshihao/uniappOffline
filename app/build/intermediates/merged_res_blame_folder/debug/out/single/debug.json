@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_push.png.flat",
+        "source": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    }
+]

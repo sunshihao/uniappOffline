@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\45aa45a3287f73fe6187f3a400d6b3a5\\transformed\\material-1.5.0\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,248,343,441,529,617,705,793,880,967,1054",
+                        "endColumns": "97,94,94,97,87,87,87,87,86,86,86,86",
+                        "endOffsets": "148,243,338,436,524,612,700,788,875,962,1049,1136"
+                    }
+                },
+                {
+                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\9a6a10f4f6ba25bef70c7155298a871c\\transformed\\appcompat-1.2.0\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1141,1216,1303,1533",
+                        "endLines": "14,15,19,23",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "1211,1298,1528,1770"
+                    }
+                }
+            ]
+        }
+    ]
+}
