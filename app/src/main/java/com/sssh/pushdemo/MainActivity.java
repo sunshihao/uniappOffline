@@ -4,7 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.cmtietong.cmttRwfamily.R;
+
+//import com.example.keepalive.KeepAlive;
+import com.example.keepalive.KeepAlive;
+import com.sssh.keepalive.R;
 
 //import com.netease.nimlib.sdk.NIMClient;
 //import com.netease.nimlib.sdk.Observer;
@@ -16,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        new KeepAlive().test("sssh");
 
 //        NIMClient.getService(SdkLifecycleObserver.class).observeMainProcessInitCompleteResult(new Observer<Boolean>() {
 //            @Override

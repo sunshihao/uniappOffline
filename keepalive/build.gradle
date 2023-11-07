@@ -51,15 +51,18 @@ repositories {
 
 dependencies {
 
+
+    androidTestImplementation 'junit:junit:4.12'
     def multidex_version = "2.0.1"
 
     testImplementation 'org.testng:testng:6.9.6'
 
     //必须添加的依赖
-    compileOnly 'androidx.recyclerview:recyclerview:1.0.0'
+    compileOnly 'androidx.recyclerview:recyclerview:1.1.0'
     compileOnly 'androidx.legacy:legacy-support-v4:1.0.0'
-    compileOnly 'androidx.appcompat:appcompat:1.0.0'
+    compileOnly 'androidx.appcompat:appcompat:1.1.0'
     compileOnly 'com.alibaba:fastjson:1.1.46.android'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
 
     compileOnly fileTree(include: ['uniapp-v8-release.aar'], dir: '../app/libs')
 }

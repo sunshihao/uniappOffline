@@ -4,7 +4,7 @@
             "outputFile": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\45aa45a3287f73fe6187f3a400d6b3a5\\transformed\\material-1.5.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\6f38f2533d3836eb2b2bf89342b45a1b\\transformed\\material-1.5.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

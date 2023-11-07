@@ -4,66 +4,73 @@ ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Androi
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:2:1-104:12
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:2:1-104:12
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:2:1-104:12
-MERGED from [android-gif-drawable-release@1.2.23.aar] D:\tools\winJdk1.8\caches\transforms-3\8cc76672dcf0c99b0484866c0d16e4c1\transformed\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:2:1-9:12
-MERGED from [breakpad-build-release.aar] D:\tools\winJdk1.8\caches\transforms-3\d0556b81c5508f76b9660031ceb6a85e\transformed\jetified-breakpad-build-release\AndroidManifest.xml:2:1-9:12
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:2:1-280:12
-MERGED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:2:1-17:12
-MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:20:1-37:12
-MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\45aa45a3287f73fe6187f3a400d6b3a5\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\2c6e0baba9d24acee5f354f7d3a0f53a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\21a506f648f1b5de9a0bdb1bf03ce16c\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [:uniplugin_component] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_component\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [com.facebook.fresco:fresco:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\8e7e709e1521f5bd417d541567b4cec5\transformed\jetified-fresco-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:animated-gif:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\13ea15648a01ecc404316cbf7292aafe\transformed\jetified-animated-gif-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\acffb453129ec7994174b6cacb6be197\transformed\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
-MERGED from [androidx.webkit:webkit:1.3.0] D:\tools\winJdk1.8\caches\transforms-3\636994ab20f6d1fc850689ea4a684dfe\transformed\webkit-1.3.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\8b4077be39b56795b0b2b6cb24caca61\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\1ac152affe4d3af751c51f06d3a32edd\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\2a4d52ea6ef9bc1afacccd71be48e359\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\8db446896c0b9177edf778b6f071ef9a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\9a6a10f4f6ba25bef70c7155298a871c\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\adcba5bc09c260475930b3e163814191\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\2e31b7fd532ec6a9f253360563cdc80a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\05e2e88f2368fbe3b0d187502d51a636\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\323b49351c6453d5d5701ef672e30dfd\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\1b0e9e21531af60afe6726f03e339f95\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\4051165ad2084d6c9fd42cdc4ecf7036\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\add89aba385628137bf81f8e7546adbb\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\626a89eee37f81aca2af5f295c91774e\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\da86c7aaf677112b983e1b54a592d20a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\acd9f9c6c6a15f6135056b34dff78114\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\99a08828b808fffa0bda42768b1c8279\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\255a6984e5956ea6334a61bd7697012a\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
-MERGED from [:uniplugin_richalert] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_richalert\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\26b7c6ac07548a0e0d1815d94a78c2a1\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\88c4b67f6b42997b8de247fb3284710e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.cardview:cardview:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\6bb039f9b0db4b3edf552b95c1a625ac\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\6c66d36cb2f04a98d42ed0284bd4f8bd\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\2f6a15df72e06189321da3d868702b3f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\0a614067607ad03f37f7760cfc8625eb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\5572ac646c2cdf75ed0d3a2c32dbb9aa\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\01a10ffd937b8e1bbf02d6496f8ca6e5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\d906fadb84e9d1185dd65ca8ff25afc4\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\ccc091faf5318a3bdc34f5bd20734966\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\25500c162d71ea7ed53b45aec2c6c8dd\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\041f3410694615587acb8b0d583da572\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\3e9dbd03be56468d3ddb61a977ed0814\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:animated-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\0ba8cdc21924ccc31497f0f52e0fccd7\transformed\jetified-animated-base-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:animated-drawable:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\0e19ae56ab7f1c0523475caa7743f0a0\transformed\jetified-animated-drawable-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\2960b449701ed4c80d8a61b43d53716b\transformed\jetified-drawee-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\c71a3bd1f95a6463f0d0315855bcd7cf\transformed\jetified-nativeimagefilters-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\46faf35df6d01d31c37ec718bd314595\transformed\jetified-imagepipeline-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\fa73e54dfad3ab2237947205f630fb63\transformed\jetified-nativeimagetranscoder-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\27807d88c819fc13a726156c9b0a2ca6\transformed\jetified-imagepipeline-base-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\7e04a544a60a2b5395f264e9d25e5db6\transformed\jetified-fbcore-1.13.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\053d6c7dacfdde3ed79ac42a99c661bf\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\56fc666e145b075d724234714c415989\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [android-gif-drawable-release@1.2.23.aar] D:\tools\winJdk1.8\caches\transforms-3\ebd4b8f8bf749869c9649d186763a09a\transformed\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:2:1-9:12
+MERGED from [breakpad-build-release.aar] D:\tools\winJdk1.8\caches\transforms-3\7305b3139917aebf60c5d32571810e08\transformed\jetified-breakpad-build-release\AndroidManifest.xml:2:1-9:12
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:2:1-280:12
+MERGED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:2:1-17:12
+MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:20:1-37:12
+MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\6f38f2533d3836eb2b2bf89342b45a1b\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\0723fe7ecd4c2478c3e1bb5dcd2061ba\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:uniplugin_component] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_component\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.fresco:fresco:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\1f0dc2ecd6f94e6de3527ae68dd4b96b\transformed\jetified-fresco-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\d9a859cd552902eb8fd35b10287be2fb\transformed\jetified-animated-gif-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\4f1eed61ae41de6c36b06ece2c342fa8\transformed\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.webkit:webkit:1.3.0] D:\tools\winJdk1.8\caches\transforms-3\837b7e6f63914ba2f50fb48c4ce1f454\transformed\webkit-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\6e2db4046e3c771974d859b9678449f2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\bf370468e921ad801968f6834090cebc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\78aa7a3e878a0fad11aa8ac6ba540a8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\c6ae6879a32cbadd13bc2a75329a046f\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\1c278cf285a450c0856d968d270e5efb\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\1e883fcca4be0e4894b79c7ad7799303\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\49fa8ed03dbf63e3c512395961f08f85\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\a8f82ec6df6d74f02579b73b471563fb\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\37a2103feb32754f2f5257b7527bb77d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\a3c04994dad38c8fcbfc4b5380bd38cc\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\e1c3d84f7e10301771a694b3f57c324a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\14a2a7ac451cdf66a351a3eab1efef45\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\540dbfb90b248d7b59cd154497c15f99\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [:uniplugin_richalert] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_richalert\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.test.ext:junit:1.1.5] D:\tools\winJdk1.8\caches\transforms-3\00c1add6a7d7bd849b18cc4f393f7131\transformed\jetified-junit-1.1.5\AndroidManifest.xml:17:1-24:12
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\f18aed27b984213fa7a865f022291ebc\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\378f8d1f5d9e8f2dccf5622b520d15a5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.test.services:storage:1.4.2] D:\tools\winJdk1.8\caches\transforms-3\5cf92b5c4880e2392c9cc971593166b1\transformed\jetified-storage-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.6.1] D:\tools\winJdk1.8\caches\transforms-3\3d95435086a18d2d90654816bc602dba\transformed\monitor-1.6.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\f49b78dbffcb25c653a9272c5a4b37ce\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\7d26d4d81ad468097d02c6ee09ec89bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\8b121b5d984b51c1f4f09cfda50daec3\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\c9db1d01625fa279f6f54b47d71dc4f6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\5f607d66b3fe72aa1e03275c59c21e0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\8df7ce37fa44672fa66846dec29b275f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\1545aa21ab819d0f8ce9206dca71858d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:annotation:1.0.1] D:\tools\winJdk1.8\caches\transforms-3\9b328eebf742e7c96ee93d05e94139bb\transformed\jetified-annotation-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\e7a4759f557659e6ca6ff74b759c4e18\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\523bf1cf31f39eb1680ec6f5da448147\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\fba5bc5fba61732c0925c2efa98b006a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\ab7c085cac4d28c8303515c95cb9326f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\51088f05217af9a7516f4f22e254bdf5\transformed\jetified-animated-base-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\962514ded5038fc16ac3570e0035fa87\transformed\jetified-animated-drawable-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\5d70bc27fbf9b308a2407487b74e1657\transformed\jetified-drawee-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\6cd5435fbc338a6d12b7cfa935d61dd3\transformed\jetified-nativeimagefilters-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\518adee9953e3fbd2ca755e920b34575\transformed\jetified-imagepipeline-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\e44701ea8addb276566a8355f1340f3e\transformed\jetified-nativeimagetranscoder-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\846dd8b6d4a7e9fa3fdf34ca082dbd0a\transformed\jetified-imagepipeline-base-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\a69ea7a076594fa82c65a9ef8f42fa38\transformed\jetified-fbcore-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\47b4244c9b7180ba0ec7932ab48626fe\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:2:1-104:12
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:2:1-104:12
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:2:1-104:12
 	package
-		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:4:5-41
+		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:4:5-33
 		INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
 		INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -80,8 +87,8 @@ INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\And
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:2:11-69
 supports-screens
 ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:6:5-11:39
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:7:5-12:39
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:7:5-12:39
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:7:5-12:39
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:7:5-12:39
 	android:largeScreens
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:8:9-36
 	android:smallScreens
@@ -94,14 +101,14 @@ MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:7:9-34
 uses-permission#android.permission.INTERNET
 ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:13:5-67
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:20:5-67
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:20:5-67
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:20:5-67
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:20:5-67
 	android:name
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:13:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:14:5-79
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:21:5-79
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:21:5-79
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:21:5-79
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:21:5-79
 	android:name
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:14:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
@@ -118,8 +125,8 @@ ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Androi
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:17:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:18:5-81
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:14:5-81
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:14:5-81
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:14:5-81
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:14:5-81
 	android:name
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:18:22-78
 uses-permission#android.permission.CAMERA
@@ -166,30 +173,32 @@ ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Androi
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:35:22-80
 application
 ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:37:5-102:19
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:172:5-278:19
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:172:5-278:19
-MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:5-35:19
-MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:5-35:19
-MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\45aa45a3287f73fe6187f3a400d6b3a5\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\45aa45a3287f73fe6187f3a400d6b3a5\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
-MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
-MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\acffb453129ec7994174b6cacb6be197\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\acffb453129ec7994174b6cacb6be197\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\8db446896c0b9177edf778b6f071ef9a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\8db446896c0b9177edf778b6f071ef9a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\255a6984e5956ea6334a61bd7697012a\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\255a6984e5956ea6334a61bd7697012a\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\26b7c6ac07548a0e0d1815d94a78c2a1\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\26b7c6ac07548a0e0d1815d94a78c2a1\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\88c4b67f6b42997b8de247fb3284710e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\88c4b67f6b42997b8de247fb3284710e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\053d6c7dacfdde3ed79ac42a99c661bf\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\053d6c7dacfdde3ed79ac42a99c661bf\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:172:5-278:19
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:172:5-278:19
+MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:5-35:19
+MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\6f38f2533d3836eb2b2bf89342b45a1b\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\6f38f2533d3836eb2b2bf89342b45a1b\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:19
+MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\4f1eed61ae41de6c36b06ece2c342fa8\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\4f1eed61ae41de6c36b06ece2c342fa8\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\540dbfb90b248d7b59cd154497c15f99\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\540dbfb90b248d7b59cd154497c15f99\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\f18aed27b984213fa7a865f022291ebc\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\f18aed27b984213fa7a865f022291ebc\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:26:5-51:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\47b4244c9b7180ba0ec7932ab48626fe\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\47b4244c9b7180ba0ec7932ab48626fe\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
 	android:extractNativeLibs
-		ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:18-50
+		ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:18-50
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\255a6984e5956ea6334a61bd7697012a\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\540dbfb90b248d7b59cd154497c15f99\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:43:9-35
 	android:label
@@ -201,10 +210,10 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\tra
 	android:icon
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:9-38
 	android:usesCleartextTraffic
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:175:9-44
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:175:9-44
 	android:name
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:38:9-63
-activity#com.cmtietong.cmttRwfamily.MainActivity
+activity#com.sssh.keepalive.MainActivity
 ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:44:9-46:40
 	android:exported
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:46:13-37
@@ -294,120 +303,134 @@ uses-sdk
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
-MERGED from [android-gif-drawable-release@1.2.23.aar] D:\tools\winJdk1.8\caches\transforms-3\8cc76672dcf0c99b0484866c0d16e4c1\transformed\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:5:5-7:41
-MERGED from [android-gif-drawable-release@1.2.23.aar] D:\tools\winJdk1.8\caches\transforms-3\8cc76672dcf0c99b0484866c0d16e4c1\transformed\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:5:5-7:41
-MERGED from [breakpad-build-release.aar] D:\tools\winJdk1.8\caches\transforms-3\d0556b81c5508f76b9660031ceb6a85e\transformed\jetified-breakpad-build-release\AndroidManifest.xml:5:5-7:41
-MERGED from [breakpad-build-release.aar] D:\tools\winJdk1.8\caches\transforms-3\d0556b81c5508f76b9660031ceb6a85e\transformed\jetified-breakpad-build-release\AndroidManifest.xml:5:5-7:41
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:5:5-44
-MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:5:5-44
-MERGED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:8:5-11:63
-MERGED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:8:5-11:63
-MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:25:5-27:41
-MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:25:5-27:41
-MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\45aa45a3287f73fe6187f3a400d6b3a5\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\45aa45a3287f73fe6187f3a400d6b3a5\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\2c6e0baba9d24acee5f354f7d3a0f53a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\2c6e0baba9d24acee5f354f7d3a0f53a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\21a506f648f1b5de9a0bdb1bf03ce16c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\21a506f648f1b5de9a0bdb1bf03ce16c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [:uniplugin_component] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_component\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:uniplugin_component] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_component\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fresco:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\8e7e709e1521f5bd417d541567b4cec5\transformed\jetified-fresco-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\8e7e709e1521f5bd417d541567b4cec5\transformed\jetified-fresco-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-gif:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\13ea15648a01ecc404316cbf7292aafe\transformed\jetified-animated-gif-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-gif:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\13ea15648a01ecc404316cbf7292aafe\transformed\jetified-animated-gif-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\acffb453129ec7994174b6cacb6be197\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\acffb453129ec7994174b6cacb6be197\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
-MERGED from [androidx.webkit:webkit:1.3.0] D:\tools\winJdk1.8\caches\transforms-3\636994ab20f6d1fc850689ea4a684dfe\transformed\webkit-1.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.webkit:webkit:1.3.0] D:\tools\winJdk1.8\caches\transforms-3\636994ab20f6d1fc850689ea4a684dfe\transformed\webkit-1.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\8b4077be39b56795b0b2b6cb24caca61\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\8b4077be39b56795b0b2b6cb24caca61\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\1ac152affe4d3af751c51f06d3a32edd\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\1ac152affe4d3af751c51f06d3a32edd\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\2a4d52ea6ef9bc1afacccd71be48e359\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\2a4d52ea6ef9bc1afacccd71be48e359\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\8db446896c0b9177edf778b6f071ef9a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\8db446896c0b9177edf778b6f071ef9a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\9a6a10f4f6ba25bef70c7155298a871c\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\9a6a10f4f6ba25bef70c7155298a871c\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\adcba5bc09c260475930b3e163814191\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\adcba5bc09c260475930b3e163814191\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\2e31b7fd532ec6a9f253360563cdc80a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\2e31b7fd532ec6a9f253360563cdc80a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\05e2e88f2368fbe3b0d187502d51a636\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\05e2e88f2368fbe3b0d187502d51a636\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\323b49351c6453d5d5701ef672e30dfd\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\323b49351c6453d5d5701ef672e30dfd\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\1b0e9e21531af60afe6726f03e339f95\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\1b0e9e21531af60afe6726f03e339f95\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\4051165ad2084d6c9fd42cdc4ecf7036\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\4051165ad2084d6c9fd42cdc4ecf7036\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\add89aba385628137bf81f8e7546adbb\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\add89aba385628137bf81f8e7546adbb\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\626a89eee37f81aca2af5f295c91774e\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\626a89eee37f81aca2af5f295c91774e\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\da86c7aaf677112b983e1b54a592d20a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\da86c7aaf677112b983e1b54a592d20a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\acd9f9c6c6a15f6135056b34dff78114\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\acd9f9c6c6a15f6135056b34dff78114\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\99a08828b808fffa0bda42768b1c8279\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\99a08828b808fffa0bda42768b1c8279\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\255a6984e5956ea6334a61bd7697012a\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\255a6984e5956ea6334a61bd7697012a\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
-MERGED from [:uniplugin_richalert] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_richalert\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:uniplugin_richalert] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_richalert\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\26b7c6ac07548a0e0d1815d94a78c2a1\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\26b7c6ac07548a0e0d1815d94a78c2a1\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\88c4b67f6b42997b8de247fb3284710e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\88c4b67f6b42997b8de247fb3284710e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\6bb039f9b0db4b3edf552b95c1a625ac\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\6bb039f9b0db4b3edf552b95c1a625ac\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\6c66d36cb2f04a98d42ed0284bd4f8bd\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\6c66d36cb2f04a98d42ed0284bd4f8bd\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\2f6a15df72e06189321da3d868702b3f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\2f6a15df72e06189321da3d868702b3f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\0a614067607ad03f37f7760cfc8625eb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\0a614067607ad03f37f7760cfc8625eb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\5572ac646c2cdf75ed0d3a2c32dbb9aa\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\5572ac646c2cdf75ed0d3a2c32dbb9aa\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\01a10ffd937b8e1bbf02d6496f8ca6e5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\01a10ffd937b8e1bbf02d6496f8ca6e5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\d906fadb84e9d1185dd65ca8ff25afc4\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\d906fadb84e9d1185dd65ca8ff25afc4\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\ccc091faf5318a3bdc34f5bd20734966\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\ccc091faf5318a3bdc34f5bd20734966\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\25500c162d71ea7ed53b45aec2c6c8dd\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\25500c162d71ea7ed53b45aec2c6c8dd\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\041f3410694615587acb8b0d583da572\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\041f3410694615587acb8b0d583da572\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\3e9dbd03be56468d3ddb61a977ed0814\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\3e9dbd03be56468d3ddb61a977ed0814\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:animated-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\0ba8cdc21924ccc31497f0f52e0fccd7\transformed\jetified-animated-base-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\0ba8cdc21924ccc31497f0f52e0fccd7\transformed\jetified-animated-base-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-drawable:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\0e19ae56ab7f1c0523475caa7743f0a0\transformed\jetified-animated-drawable-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-drawable:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\0e19ae56ab7f1c0523475caa7743f0a0\transformed\jetified-animated-drawable-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\2960b449701ed4c80d8a61b43d53716b\transformed\jetified-drawee-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\2960b449701ed4c80d8a61b43d53716b\transformed\jetified-drawee-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\c71a3bd1f95a6463f0d0315855bcd7cf\transformed\jetified-nativeimagefilters-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\c71a3bd1f95a6463f0d0315855bcd7cf\transformed\jetified-nativeimagefilters-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\46faf35df6d01d31c37ec718bd314595\transformed\jetified-imagepipeline-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\46faf35df6d01d31c37ec718bd314595\transformed\jetified-imagepipeline-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\fa73e54dfad3ab2237947205f630fb63\transformed\jetified-nativeimagetranscoder-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\fa73e54dfad3ab2237947205f630fb63\transformed\jetified-nativeimagetranscoder-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\27807d88c819fc13a726156c9b0a2ca6\transformed\jetified-imagepipeline-base-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\27807d88c819fc13a726156c9b0a2ca6\transformed\jetified-imagepipeline-base-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\7e04a544a60a2b5395f264e9d25e5db6\transformed\jetified-fbcore-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\7e04a544a60a2b5395f264e9d25e5db6\transformed\jetified-fbcore-1.13.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\053d6c7dacfdde3ed79ac42a99c661bf\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\053d6c7dacfdde3ed79ac42a99c661bf\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\56fc666e145b075d724234714c415989\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\56fc666e145b075d724234714c415989\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android-gif-drawable-release@1.2.23.aar] D:\tools\winJdk1.8\caches\transforms-3\ebd4b8f8bf749869c9649d186763a09a\transformed\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:5:5-7:41
+MERGED from [android-gif-drawable-release@1.2.23.aar] D:\tools\winJdk1.8\caches\transforms-3\ebd4b8f8bf749869c9649d186763a09a\transformed\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:5:5-7:41
+MERGED from [breakpad-build-release.aar] D:\tools\winJdk1.8\caches\transforms-3\7305b3139917aebf60c5d32571810e08\transformed\jetified-breakpad-build-release\AndroidManifest.xml:5:5-7:41
+MERGED from [breakpad-build-release.aar] D:\tools\winJdk1.8\caches\transforms-3\7305b3139917aebf60c5d32571810e08\transformed\jetified-breakpad-build-release\AndroidManifest.xml:5:5-7:41
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:5:5-44
+MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:5:5-44
+MERGED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:8:5-11:63
+MERGED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:8:5-11:63
+MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:25:5-27:41
+MERGED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:25:5-27:41
+MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\6f38f2533d3836eb2b2bf89342b45a1b\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\6f38f2533d3836eb2b2bf89342b45a1b\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\0723fe7ecd4c2478c3e1bb5dcd2061ba\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\0723fe7ecd4c2478c3e1bb5dcd2061ba\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:uniplugin_component] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_component\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:uniplugin_component] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_component\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\1f0dc2ecd6f94e6de3527ae68dd4b96b\transformed\jetified-fresco-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\1f0dc2ecd6f94e6de3527ae68dd4b96b\transformed\jetified-fresco-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\d9a859cd552902eb8fd35b10287be2fb\transformed\jetified-animated-gif-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\d9a859cd552902eb8fd35b10287be2fb\transformed\jetified-animated-gif-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\4f1eed61ae41de6c36b06ece2c342fa8\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\4f1eed61ae41de6c36b06ece2c342fa8\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.webkit:webkit:1.3.0] D:\tools\winJdk1.8\caches\transforms-3\837b7e6f63914ba2f50fb48c4ce1f454\transformed\webkit-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.3.0] D:\tools\winJdk1.8\caches\transforms-3\837b7e6f63914ba2f50fb48c4ce1f454\transformed\webkit-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\6e2db4046e3c771974d859b9678449f2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\6e2db4046e3c771974d859b9678449f2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\bf370468e921ad801968f6834090cebc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\bf370468e921ad801968f6834090cebc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\78aa7a3e878a0fad11aa8ac6ba540a8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\78aa7a3e878a0fad11aa8ac6ba540a8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\c6ae6879a32cbadd13bc2a75329a046f\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\c6ae6879a32cbadd13bc2a75329a046f\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\1c278cf285a450c0856d968d270e5efb\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\1c278cf285a450c0856d968d270e5efb\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\1e883fcca4be0e4894b79c7ad7799303\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\1e883fcca4be0e4894b79c7ad7799303\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\49fa8ed03dbf63e3c512395961f08f85\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\49fa8ed03dbf63e3c512395961f08f85\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\a8f82ec6df6d74f02579b73b471563fb\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\a8f82ec6df6d74f02579b73b471563fb\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\37a2103feb32754f2f5257b7527bb77d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\37a2103feb32754f2f5257b7527bb77d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\a3c04994dad38c8fcbfc4b5380bd38cc\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\tools\winJdk1.8\caches\transforms-3\a3c04994dad38c8fcbfc4b5380bd38cc\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\e1c3d84f7e10301771a694b3f57c324a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\e1c3d84f7e10301771a694b3f57c324a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\14a2a7ac451cdf66a351a3eab1efef45\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\14a2a7ac451cdf66a351a3eab1efef45\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\540dbfb90b248d7b59cd154497c15f99\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\540dbfb90b248d7b59cd154497c15f99\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:uniplugin_richalert] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_richalert\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:uniplugin_richalert] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_richalert\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test.ext:junit:1.1.5] D:\tools\winJdk1.8\caches\transforms-3\00c1add6a7d7bd849b18cc4f393f7131\transformed\jetified-junit-1.1.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.5] D:\tools\winJdk1.8\caches\transforms-3\00c1add6a7d7bd849b18cc4f393f7131\transformed\jetified-junit-1.1.5\AndroidManifest.xml:20:5-22:41
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\f18aed27b984213fa7a865f022291ebc\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\f18aed27b984213fa7a865f022291ebc\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\378f8d1f5d9e8f2dccf5622b520d15a5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\378f8d1f5d9e8f2dccf5622b520d15a5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.2] D:\tools\winJdk1.8\caches\transforms-3\5cf92b5c4880e2392c9cc971593166b1\transformed\jetified-storage-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.2] D:\tools\winJdk1.8\caches\transforms-3\5cf92b5c4880e2392c9cc971593166b1\transformed\jetified-storage-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.1] D:\tools\winJdk1.8\caches\transforms-3\3d95435086a18d2d90654816bc602dba\transformed\monitor-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.1] D:\tools\winJdk1.8\caches\transforms-3\3d95435086a18d2d90654816bc602dba\transformed\monitor-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\f49b78dbffcb25c653a9272c5a4b37ce\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\f49b78dbffcb25c653a9272c5a4b37ce\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\7d26d4d81ad468097d02c6ee09ec89bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\tools\winJdk1.8\caches\transforms-3\7d26d4d81ad468097d02c6ee09ec89bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\8b121b5d984b51c1f4f09cfda50daec3\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\8b121b5d984b51c1f4f09cfda50daec3\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\c9db1d01625fa279f6f54b47d71dc4f6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\c9db1d01625fa279f6f54b47d71dc4f6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\5f607d66b3fe72aa1e03275c59c21e0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\5f607d66b3fe72aa1e03275c59c21e0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\8df7ce37fa44672fa66846dec29b275f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\8df7ce37fa44672fa66846dec29b275f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\1545aa21ab819d0f8ce9206dca71858d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\1545aa21ab819d0f8ce9206dca71858d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] D:\tools\winJdk1.8\caches\transforms-3\9b328eebf742e7c96ee93d05e94139bb\transformed\jetified-annotation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] D:\tools\winJdk1.8\caches\transforms-3\9b328eebf742e7c96ee93d05e94139bb\transformed\jetified-annotation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\e7a4759f557659e6ca6ff74b759c4e18\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\tools\winJdk1.8\caches\transforms-3\e7a4759f557659e6ca6ff74b759c4e18\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\523bf1cf31f39eb1680ec6f5da448147\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\523bf1cf31f39eb1680ec6f5da448147\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\fba5bc5fba61732c0925c2efa98b006a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\fba5bc5fba61732c0925c2efa98b006a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\ab7c085cac4d28c8303515c95cb9326f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\ab7c085cac4d28c8303515c95cb9326f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\51088f05217af9a7516f4f22e254bdf5\transformed\jetified-animated-base-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\51088f05217af9a7516f4f22e254bdf5\transformed\jetified-animated-base-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\962514ded5038fc16ac3570e0035fa87\transformed\jetified-animated-drawable-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\962514ded5038fc16ac3570e0035fa87\transformed\jetified-animated-drawable-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\5d70bc27fbf9b308a2407487b74e1657\transformed\jetified-drawee-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\5d70bc27fbf9b308a2407487b74e1657\transformed\jetified-drawee-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\6cd5435fbc338a6d12b7cfa935d61dd3\transformed\jetified-nativeimagefilters-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\6cd5435fbc338a6d12b7cfa935d61dd3\transformed\jetified-nativeimagefilters-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\518adee9953e3fbd2ca755e920b34575\transformed\jetified-imagepipeline-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\518adee9953e3fbd2ca755e920b34575\transformed\jetified-imagepipeline-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\e44701ea8addb276566a8355f1340f3e\transformed\jetified-nativeimagetranscoder-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\e44701ea8addb276566a8355f1340f3e\transformed\jetified-nativeimagetranscoder-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\846dd8b6d4a7e9fa3fdf34ca082dbd0a\transformed\jetified-imagepipeline-base-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\846dd8b6d4a7e9fa3fdf34ca082dbd0a\transformed\jetified-imagepipeline-base-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\a69ea7a076594fa82c65a9ef8f42fa38\transformed\jetified-fbcore-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] D:\tools\winJdk1.8\caches\transforms-3\a69ea7a076594fa82c65a9ef8f42fa38\transformed\jetified-fbcore-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\47b4244c9b7180ba0ec7932ab48626fe\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\transforms-3\47b4244c9b7180ba0ec7932ab48626fe\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\tools\winJdk1.8\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
 INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:11:9-60
+		ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:11:9-60
 	android:targetSdkVersion
 		INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
@@ -417,194 +440,226 @@ INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\And
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
 		INJECTED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_MEDIA_IMAGES
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:17:5-76
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:17:5-76
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:17:22-73
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:17:22-73
 uses-permission#android.permission.READ_MEDIA_VIDEO
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:18:5-75
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:18:5-75
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:18:22-72
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:18:22-72
 uses-permission#android.permission.READ_MEDIA_VISUAL_USER_SELECTED
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:19:5-90
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:19:5-90
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:19:22-87
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:19:22-87
 uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:27:5-91
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:27:5-91
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:27:22-88
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:27:22-88
 uses-permission#com.vivo.notification.permission.BADGE_ICON
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:29:5-83
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:29:5-83
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:29:22-80
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:29:22-80
 queries
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:31:5-40:15
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:31:5-40:15
 intent#action:name:android.intent.action.MAIN
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:32:9-34:18
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:32:9-34:18
 intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:35:9-39:18
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:35:9-39:18
 activity#io.dcloud.feature.nativeObj.photoview.PhotoActivity
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:184:9-190:58
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:184:9-190:58
 	android:screenOrientation
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:189:13-47
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:189:13-47
 	android:noHistory
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:188:13-38
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:188:13-38
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:187:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:187:13-37
 	android:configChanges
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:186:13-63
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:186:13-63
 	android:theme
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:190:13-55
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:190:13-55
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:185:13-79
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:185:13-79
 activity#io.dcloud.WebAppActivity
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:191:9-200:58
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:191:9-200:58
 	android:screenOrientation
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:198:13-49
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:198:13-49
 	android:label
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:196:13-46
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:196:13-46
 	android:launchMode
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:197:13-44
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:197:13-44
 	android:hardwareAccelerated
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:194:13-47
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:194:13-47
 	android:windowSoftInputMode
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:200:13-55
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:200:13-55
 	android:configChanges
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:193:13-144
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:193:13-144
 	android:icon
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:195:13-51
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:195:13-51
 	android:theme
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:199:13-47
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:199:13-47
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:192:13-52
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:192:13-52
 activity#io.dcloud.ProcessMediator
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:201:9-205:75
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:201:9-205:75
 	android:excludeFromRecents
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:203:13-46
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:203:13-46
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:204:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:204:13-37
 	android:theme
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:205:13-72
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:205:13-72
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:202:13-53
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:202:13-53
 activity#io.dcloud.WebviewActivity
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:206:9-212:20
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:206:9-212:20
 	android:screenOrientation
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:209:13-49
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:209:13-49
 	android:windowSoftInputMode
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:211:13-52
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:211:13-52
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:208:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:208:13-37
 	android:theme
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:210:13-51
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:210:13-51
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:207:13-53
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:207:13-53
 activity#com.dmcbig.mediapicker.PickerActivity
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:215:9-220:63
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:215:9-220:63
 	android:windowSoftInputMode
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:220:13-60
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:220:13-60
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:218:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:218:13-37
 	android:configChanges
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:217:13-59
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:217:13-59
 	android:theme
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:219:13-55
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:219:13-55
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:216:13-65
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:216:13-65
 activity#com.dmcbig.mediapicker.PreviewActivity
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:221:9-226:63
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:221:9-226:63
 	android:windowSoftInputMode
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:226:13-60
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:226:13-60
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:224:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:224:13-37
 	android:configChanges
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:223:13-59
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:223:13-59
 	android:theme
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:225:13-55
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:225:13-55
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:222:13-66
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:222:13-66
 provider#io.dcloud.common.util.DCloud_FileProvider
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:229:9-237:20
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:229:9-237:20
 	android:grantUriPermissions
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:233:13-47
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:233:13-47
 	android:authorities
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:231:13-67
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:231:13-67
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:232:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:232:13-37
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:230:13-69
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:230:13-69
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:234:13-236:64
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:234:13-236:64
 	android:resource
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:236:17-61
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:236:17-61
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:235:17-67
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:235:17-67
 meta-data#android.max_aspect
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:244:9-246:35
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:244:9-246:35
 	android:value
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:246:13-32
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:246:13-32
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:245:13-46
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:245:13-46
 activity#io.dcloud.feature.gallery.imageedit.IMGEditActivity
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:248:9-253:63
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:248:9-253:63
 	android:windowSoftInputMode
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:253:13-60
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:253:13-60
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:251:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:251:13-37
 	android:configChanges
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:250:13-74
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:250:13-74
 	android:theme
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:252:13-50
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:252:13-50
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:249:13-79
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:249:13-79
 activity#io.dcloud.sdk.activity.WebViewActivity
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:256:9-261:55
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:256:9-261:55
 	android:screenOrientation
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:259:13-49
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:259:13-49
 	android:windowSoftInputMode
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:261:13-52
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:261:13-52
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:258:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:258:13-37
 	android:theme
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:260:13-51
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:260:13-51
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:257:13-66
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:257:13-66
 service#io.dcloud.sdk.base.service.DownloadService
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:263:9-266:72
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:263:9-266:72
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:265:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:265:13-37
 	android:permission
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:266:13-69
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:266:13-69
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:264:13-70
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:264:13-70
 provider#io.dcloud.sdk.base.service.provider.DCloudAdFileProvider
-ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:268:9-276:20
+ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:268:9-276:20
 	android:grantUriPermissions
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:272:13-47
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:272:13-47
 	android:authorities
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:270:13-67
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:270:13-67
 	android:exported
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:271:13-37
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:271:13-37
 	android:name
-		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:269:13-84
+		ADDED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:269:13-84
 uses-permission#com.asus.msa.SupplementaryDID.ACCESS
-ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:5-76
+ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:5-76
 	android:name
-		ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:22-73
+		ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:22-73
 uses-permission#freemme.permission.msa
-ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:5-62
+ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:5-62
 	android:name
-		ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:22-59
+		ADDED from [oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:22-59
 receiver#com.taobao.weex.WXGlobalEventReceiver
-ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:30:9-34:20
+ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:30:9-34:20
 	android:enabled
-		ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:32:13-35
+		ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:32:13-35
 	android:exported
-		ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:33:13-37
+		ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:31:13-65
+		ADDED from [uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:31:13-65
 activity#io.dcloud.uniplugin.NativePageActivity
-ADDED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:84
+ADDED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:84
 	android:theme
-		ADDED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-81
+		ADDED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-81
 	android:name
-		ADDED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-66
+		ADDED from [:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-66
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:28:13-99
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:44:13-103

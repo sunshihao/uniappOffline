@@ -4,7 +4,17 @@
             "outputFile": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\45aa45a3287f73fe6187f3a400d6b3a5\\transformed\\material-1.5.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\98848667e742bf89a36eea5d5e3df1a0\\transformed\\jetified-uniapp-v8-release\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    }
+                },
+                {
+                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\6f38f2533d3836eb2b2bf89342b45a1b\\transformed\\material-1.5.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "106,242",
                         "endColumns": "135,140",
                         "endOffsets": "237,378"
-                    }
-                },
-                {
-                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\c7fb3756a6daa018fd58ccd78cc18dd5\\transformed\\jetified-uniapp-v8-release\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "50",
-                        "endOffsets": "101"
                     }
                 }
             ]

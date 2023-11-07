@@ -27,6 +27,16 @@
           "class": "uni.dcloud.io.uniplugin_richalert.RichAlertModule"
         }
       ]
+    },
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "keepAlive",
+          "class": "com.example.keepalive.KeepAlive"
+        }
+      ]
     }
   ]
 }

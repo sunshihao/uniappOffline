@@ -1,7 +1,7 @@
-#Mon Sep 25 16:25:22 CST 2023
-base.0=D\:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes.dex
+#Tue Nov 07 16:48:07 CST 2023
 base.1=D\:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes2.dex
-path.0=classes.dex
 path.1=classes2.dex
-renamed.0=classes.dex
+base.0=D\:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes.dex
 renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

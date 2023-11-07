@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.cmtietong.cmttRwfamily"
+3    package="com.sssh.keepalive"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -84,36 +84,36 @@
 41
 42    <!-- 适配android 13 图片选择权限 -->
 43    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-43-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:17:5-76
-43-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:17:22-73
+43-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:17:5-76
+43-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:17:22-73
 44    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
-44-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:18:5-75
-44-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:18:22-72
+44-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:18:5-75
+44-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:18:22-72
 45    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" />
-45-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:19:5-90
-45-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:19:22-87
+45-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:19:5-90
+45-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:19:22-87
 46    <!--
 47    <uses-permission
 48        android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
 49    -->
 50    <!-- 华为修改角标需要设置权限 -->
 51    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" /> <!-- vivo 修改角标需要设置权限 -->
-51-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:27:5-91
-51-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:27:22-88
+51-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:27:5-91
+51-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:27:22-88
 52    <uses-permission android:name="com.vivo.notification.permission.BADGE_ICON" />
-52-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:29:5-83
-52-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:29:22-80
+52-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:29:5-83
+52-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:29:22-80
 53
 54    <queries>
-54-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:31:5-40:15
+54-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:31:5-40:15
 55        <intent>
-55-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:32:9-34:18
+55-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:32:9-34:18
 56            <action android:name="android.intent.action.MAIN" />
 56-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:70:17-69
 56-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:70:25-66
 57        </intent>
 58        <intent>
-58-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:35:9-39:18
+58-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:35:9-39:18
 59            <action android:name="android.intent.action.VIEW" />
 59-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:17-69
 59-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:25-66
@@ -125,330 +125,381 @@
 63    </queries>
 64
 65    <uses-permission android:name="com.asus.msa.SupplementaryDID.ACCESS" />
-65-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:5-76
-65-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:22-73
+65-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:5-76
+65-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:22-73
 66    <uses-permission android:name="freemme.permission.msa" />
-66-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:5-62
-66-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6e5a3fecda3e35011ce57aef0724fda0\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:22-59
-67
-68    <application
-68-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:37:5-102:19
-69        android:name="io.dcloud.application.DCloudApplication"
-69-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:38:9-63
-70        android:allowClearUserData="true"
-70-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:39:9-42
-71        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-71-->[androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\255a6984e5956ea6334a61bd7697012a\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
-72        android:debuggable="true"
-73        android:extractNativeLibs="true"
-73-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:18-50
-74        android:icon="@drawable/logo"
-74-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:9-38
-75        android:label="@string/app_name"
-75-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:41:9-41
-76        android:largeHeap="true"
-76-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:42:9-33
-77        android:supportsRtl="true"
-77-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:43:9-35
-78        android:testOnly="true"
-79        android:usesCleartextTraffic="true" >
-79-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:175:9-44
-80        <activity
-80-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:44:9-46:40
-81            android:name="com.cmtietong.cmttRwfamily.MainActivity"
-81-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:45:13-41
-82            android:exported="false" />
-82-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:46:13-37
-83        <!-- 应用入口 -->
-84        <activity
-84-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:48:9-74:20
-85            android:name="io.dcloud.PandoraEntry"
-85-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:49:13-50
-86            android:configChanges="orientation|keyboardHidden|screenSize|mcc|mnc|fontScale"
-86-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:50:13-92
-87            android:hardwareAccelerated="true"
-87-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:51:13-47
-88            android:theme="@style/TranslucentTheme"
-88-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:52:13-52
-89            android:windowSoftInputMode="adjustResize" >
-89-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:53:13-55
-90            <intent-filter>
-90-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:54:13-61:29
-91                <data android:scheme="hbuilder" />
-91-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:17-51
-91-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:23-48
-92
-93                <action android:name="android.intent.action.VIEW" />
-93-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:17-69
-93-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:25-66
-94
-95                <category android:name="android.intent.category.DEFAULT" />
-95-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:17-76
-95-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:27-73
-96                <category android:name="android.intent.category.BROWSABLE" />
-96-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:60:17-78
-96-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:60:27-75
-97            </intent-filter>
-98            <intent-filter>
-98-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:62:13-68:29
-99                <data android:mimeType="image/*" />
-99-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:17-51
-99-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:63:23-49
-100
-101                <action android:name="android.intent.action.SEND" />
-101-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:65:17-69
-101-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:65:25-66
-102
-103                <category android:name="android.intent.category.DEFAULT" />
-103-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:17-76
-103-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:27-73
-104            </intent-filter>
-105            <intent-filter>
-105-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:69:13-73:29
-106                <action android:name="android.intent.action.MAIN" />
-106-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:70:17-69
-106-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:70:25-66
-107
-108                <category android:name="android.intent.category.LAUNCHER" />
-108-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:17-77
-108-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:27-74
-109            </intent-filter>
-110        </activity>
-111
-112        <meta-data
-112-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:76:9-78:36
-113            android:name="dcloud_uninview_background"
-113-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:77:13-54
-114            android:value="true" />
-114-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:78:13-33
-115
-116        <activity
-116-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:80:9-97:20
-117            android:name="io.dcloud.PandoraEntryActivity"
-117-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:81:13-58
-118            android:configChanges="orientation|keyboardHidden|screenSize|mcc|mnc|fontScale|keyboard|smallestScreenSize|screenLayout|screenSize|uiMode"
-118-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:82:13-151
-119            android:hardwareAccelerated="true"
-119-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:83:13-47
-120            android:launchMode="singleTask"
-120-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:84:13-44
-121            android:permission="com.miui.securitycenter.permission.AppPermissionsEditor"
-121-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:85:13-89
-122            android:screenOrientation="user"
-122-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:86:13-45
-123            android:theme="@style/DCloudTheme"
-123-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:87:13-47
-124            android:windowSoftInputMode="adjustResize" >
-124-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:88:13-55
-125            <intent-filter>
-125-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:89:13-96:29
-126                <category android:name="android.intent.category.DEFAULT" />
-126-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:17-76
-126-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:27-73
-127                <category android:name="android.intent.category.BROWSABLE" />
-127-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:60:17-78
-127-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:60:27-75
-128
-129                <action android:name="android.intent.action.VIEW" />
-129-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:17-69
-129-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:25-66
-130
-131                <data android:scheme=" " />
-131-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:17-51
-131-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:23-48
-132            </intent-filter>
-133        </activity>
-134
-135        <meta-data
-135-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:99:9-101:64
-136            android:name="dcloud_appkey"
-136-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:100:13-41
-137            android:value="f0427331abfae4f29cc79ff73ff3e74c" />
-137-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:101:13-61
-138        <!--
-139        <activity
-140            android:name="io.dcloud.imagepick.CustomGalleryActivity"
-141            android:noHistory="true"
-142            android:exported="false"/>
-143        -->
-144        <activity
-144-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:184:9-190:58
-145            android:name="io.dcloud.feature.nativeObj.photoview.PhotoActivity"
-145-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:185:13-79
-146            android:configChanges="orientation|keyboardHidden"
-146-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:186:13-63
-147            android:exported="false"
-147-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:187:13-37
-148            android:noHistory="false"
-148-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:188:13-38
-149            android:screenOrientation="behind"
-149-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:189:13-47
-150            android:theme="@style/DeviceDefault.Light" />
-150-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:190:13-55
-151        <activity
-151-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:191:9-200:58
-152            android:name="io.dcloud.WebAppActivity"
-152-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:192:13-52
-153            android:configChanges="orientation|keyboard|keyboardHidden|smallestScreenSize|screenLayout|screenSize|mcc|mnc|fontScale|navigation"
-153-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:193:13-144
-154            android:hardwareAccelerated="true"
-154-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:194:13-47
-155            android:icon="@drawable/dcloud_recent"
-155-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:195:13-51
-156            android:label="@string/stream_my"
-156-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:196:13-46
-157            android:launchMode="singleTask"
-157-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:197:13-44
-158            android:screenOrientation="portrait"
-158-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:198:13-49
-159            android:theme="@style/DCloudTheme"
-159-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:199:13-47
-160            android:windowSoftInputMode="adjustResize" />
-160-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:200:13-55
-161        <activity
-161-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:201:9-205:75
-162            android:name="io.dcloud.ProcessMediator"
-162-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:202:13-53
-163            android:excludeFromRecents="true"
-163-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:203:13-46
-164            android:exported="false"
-164-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:204:13-37
-165            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-165-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:205:13-72
-166        <activity
-166-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:206:9-212:20
-167            android:name="io.dcloud.WebviewActivity"
-167-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:207:13-53
-168            android:exported="false"
-168-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:208:13-37
-169            android:screenOrientation="portrait"
-169-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:209:13-49
-170            android:theme="@style/ThemeNoTitleBar"
-170-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:210:13-51
-171            android:windowSoftInputMode="adjustPan" >
-171-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:211:13-52
-172        </activity> <!-- gallery******start -->
-173        <activity
-173-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:215:9-220:63
-174            android:name="com.dmcbig.mediapicker.PickerActivity"
-174-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:216:13-65
-175            android:configChanges="orientation|screenSize"
-175-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:217:13-59
-176            android:exported="false"
-176-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:218:13-37
-177            android:theme="@style/DeviceDefault.Light"
-177-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:219:13-55
-178            android:windowSoftInputMode="stateAlwaysHidden" />
-178-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:220:13-60
-179        <activity
-179-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:221:9-226:63
-180            android:name="com.dmcbig.mediapicker.PreviewActivity"
-180-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:222:13-66
-181            android:configChanges="orientation|screenSize"
-181-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:223:13-59
-182            android:exported="false"
-182-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:224:13-37
-183            android:theme="@style/DeviceDefault.Light"
-183-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:225:13-55
-184            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- gallery******end -->
-184-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:226:13-60
-185        <provider
-185-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:229:9-237:20
-186            android:name="io.dcloud.common.util.DCloud_FileProvider"
-186-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:230:13-69
-187            android:authorities="com.cmtietong.cmttRwfamily.dc.fileprovider"
-187-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:231:13-67
-188            android:exported="false"
-188-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:232:13-37
-189            android:grantUriPermissions="true" >
-189-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:233:13-47
-190            <meta-data
-190-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:234:13-236:64
-191                android:name="android.support.FILE_PROVIDER_PATHS"
-191-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:235:17-67
-192                android:resource="@xml/dcloud_file_provider" />
-192-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:236:17-61
-193        </provider>
-194        <!--
-195            <meta-data
-196            android:name="DCLOUD_STREAMAPP_CHANNEL"
-197            android:value="io.dcloud.%APPID%|%APPID%|" />
-198        -->
-199        <meta-data
-199-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:244:9-246:35
-200            android:name="android.max_aspect"
-200-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:245:13-46
-201            android:value="2.4" />
-201-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:246:13-32
-202
-203        <activity
-203-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:248:9-253:63
-204            android:name="io.dcloud.feature.gallery.imageedit.IMGEditActivity"
-204-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:249:13-79
-205            android:configChanges="orientation|keyboardHidden|screenSize"
-205-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:250:13-74
-206            android:exported="false"
-206-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:251:13-37
-207            android:theme="@style/ImageEditTheme"
-207-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:252:13-50
-208            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- 广告相关配置开始 -->
-208-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:253:13-60
-209        <activity
-209-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:256:9-261:55
-210            android:name="io.dcloud.sdk.activity.WebViewActivity"
-210-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:257:13-66
-211            android:exported="false"
-211-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:258:13-37
-212            android:screenOrientation="portrait"
-212-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:259:13-49
-213            android:theme="@style/ThemeNoTitleBar"
-213-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:260:13-51
-214            android:windowSoftInputMode="adjustPan" />
-214-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:261:13-52
-215
-216        <service
-216-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:263:9-266:72
-217            android:name="io.dcloud.sdk.base.service.DownloadService"
-217-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:264:13-70
-218            android:exported="false"
-218-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:265:13-37
-219            android:permission="android.permission.BIND_JOB_SERVICE" />
-219-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:266:13-69
-220
-221        <provider
-221-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:268:9-276:20
-222            android:name="io.dcloud.sdk.base.service.provider.DCloudAdFileProvider"
-222-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:269:13-84
-223            android:authorities="com.cmtietong.cmttRwfamily.dc.fileprovider"
-223-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:270:13-67
-224            android:exported="false"
-224-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:271:13-37
-225            android:grantUriPermissions="true" >
-225-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:272:13-47
-226            <meta-data
-226-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:234:13-236:64
-227                android:name="android.support.FILE_PROVIDER_PATHS"
-227-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:235:17-67
-228                android:resource="@xml/dcloud_gg_file_provider" />
-228-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\5d9d4eb289e73f971298ff4f23d9ff15\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:236:17-61
-229        </provider>
-230
-231        <receiver
-231-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:30:9-34:20
-232            android:name="com.taobao.weex.WXGlobalEventReceiver"
-232-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:31:13-65
-233            android:enabled="true"
-233-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:32:13-35
-234            android:exported="false" >
-234-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\c7fb3756a6daa018fd58ccd78cc18dd5\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:33:13-37
-235        </receiver>
-236
-237        <activity
-237-->[:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:84
-238            android:name="io.dcloud.uniplugin.NativePageActivity"
-238-->[:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-66
-239            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
-239-->[:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-81
-240    </application>
-241
-242</manifest>
+66-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:5-62
+66-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:22-59
+67    <uses-permission android:name="android.permission.REORDER_TASKS" />
+67-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:5-72
+67-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:22-69
+68
+69    <application
+69-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:37:5-102:19
+70        android:name="io.dcloud.application.DCloudApplication"
+70-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:38:9-63
+71        android:allowClearUserData="true"
+71-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:39:9-42
+72        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+72-->[androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\540dbfb90b248d7b59cd154497c15f99\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+73        android:debuggable="true"
+74        android:extractNativeLibs="true"
+74-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:18-50
+75        android:icon="@drawable/logo"
+75-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:9-38
+76        android:label="@string/app_name"
+76-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:41:9-41
+77        android:largeHeap="true"
+77-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:42:9-33
+78        android:supportsRtl="true"
+78-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:43:9-35
+79        android:testOnly="true"
+80        android:usesCleartextTraffic="true" >
+80-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:175:9-44
+81        <activity
+81-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:44:9-46:40
+82            android:name="com.sssh.keepalive.MainActivity"
+82-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:45:13-41
+83            android:exported="false" />
+83-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:46:13-37
+84        <!-- 应用入口 -->
+85        <activity
+85-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:48:9-74:20
+86            android:name="io.dcloud.PandoraEntry"
+86-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:49:13-50
+87            android:configChanges="orientation|keyboardHidden|screenSize|mcc|mnc|fontScale"
+87-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:50:13-92
+88            android:hardwareAccelerated="true"
+88-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:51:13-47
+89            android:theme="@style/TranslucentTheme"
+89-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:52:13-52
+90            android:windowSoftInputMode="adjustResize" >
+90-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:53:13-55
+91            <intent-filter>
+91-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:54:13-61:29
+92                <data android:scheme="hbuilder" />
+92-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:17-51
+92-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:23-48
+93
+94                <action android:name="android.intent.action.VIEW" />
+94-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:17-69
+94-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:25-66
+95
+96                <category android:name="android.intent.category.DEFAULT" />
+96-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:17-76
+96-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:27-73
+97                <category android:name="android.intent.category.BROWSABLE" />
+97-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:60:17-78
+97-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:60:27-75
+98            </intent-filter>
+99            <intent-filter>
+99-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:62:13-68:29
+100                <data android:mimeType="image/*" />
+100-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:17-51
+100-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:63:23-49
+101
+102                <action android:name="android.intent.action.SEND" />
+102-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:65:17-69
+102-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:65:25-66
+103
+104                <category android:name="android.intent.category.DEFAULT" />
+104-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:17-76
+104-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:27-73
+105            </intent-filter>
+106            <intent-filter>
+106-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:69:13-73:29
+107                <action android:name="android.intent.action.MAIN" />
+107-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:70:17-69
+107-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:70:25-66
+108
+109                <category android:name="android.intent.category.LAUNCHER" />
+109-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:17-77
+109-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:27-74
+110            </intent-filter>
+111        </activity>
+112
+113        <meta-data
+113-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:76:9-78:36
+114            android:name="dcloud_uninview_background"
+114-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:77:13-54
+115            android:value="true" />
+115-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:78:13-33
+116
+117        <activity
+117-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:80:9-97:20
+118            android:name="io.dcloud.PandoraEntryActivity"
+118-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:81:13-58
+119            android:configChanges="orientation|keyboardHidden|screenSize|mcc|mnc|fontScale|keyboard|smallestScreenSize|screenLayout|screenSize|uiMode"
+119-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:82:13-151
+120            android:hardwareAccelerated="true"
+120-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:83:13-47
+121            android:launchMode="singleTask"
+121-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:84:13-44
+122            android:permission="com.miui.securitycenter.permission.AppPermissionsEditor"
+122-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:85:13-89
+123            android:screenOrientation="user"
+123-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:86:13-45
+124            android:theme="@style/DCloudTheme"
+124-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:87:13-47
+125            android:windowSoftInputMode="adjustResize" >
+125-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:88:13-55
+126            <intent-filter>
+126-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:89:13-96:29
+127                <category android:name="android.intent.category.DEFAULT" />
+127-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:17-76
+127-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:59:27-73
+128                <category android:name="android.intent.category.BROWSABLE" />
+128-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:60:17-78
+128-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:60:27-75
+129
+130                <action android:name="android.intent.action.VIEW" />
+130-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:17-69
+130-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:25-66
+131
+132                <data android:scheme=" " />
+132-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:17-51
+132-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:23-48
+133            </intent-filter>
+134        </activity>
+135
+136        <meta-data
+136-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:99:9-101:64
+137            android:name="dcloud_appkey"
+137-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:100:13-41
+138            android:value="20f8d89a44e39d69e46e745d5f8eabc3" />
+138-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:101:13-61
+139        <!--
+140        <activity
+141            android:name="io.dcloud.imagepick.CustomGalleryActivity"
+142            android:noHistory="true"
+143            android:exported="false"/>
+144        -->
+145        <activity
+145-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:184:9-190:58
+146            android:name="io.dcloud.feature.nativeObj.photoview.PhotoActivity"
+146-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:185:13-79
+147            android:configChanges="orientation|keyboardHidden"
+147-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:186:13-63
+148            android:exported="false"
+148-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:187:13-37
+149            android:noHistory="false"
+149-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:188:13-38
+150            android:screenOrientation="behind"
+150-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:189:13-47
+151            android:theme="@style/DeviceDefault.Light" />
+151-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:190:13-55
+152        <activity
+152-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:191:9-200:58
+153            android:name="io.dcloud.WebAppActivity"
+153-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:192:13-52
+154            android:configChanges="orientation|keyboard|keyboardHidden|smallestScreenSize|screenLayout|screenSize|mcc|mnc|fontScale|navigation"
+154-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:193:13-144
+155            android:hardwareAccelerated="true"
+155-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:194:13-47
+156            android:icon="@drawable/dcloud_recent"
+156-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:195:13-51
+157            android:label="@string/stream_my"
+157-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:196:13-46
+158            android:launchMode="singleTask"
+158-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:197:13-44
+159            android:screenOrientation="portrait"
+159-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:198:13-49
+160            android:theme="@style/DCloudTheme"
+160-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:199:13-47
+161            android:windowSoftInputMode="adjustResize" />
+161-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:200:13-55
+162        <activity
+162-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:201:9-205:75
+163            android:name="io.dcloud.ProcessMediator"
+163-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:202:13-53
+164            android:excludeFromRecents="true"
+164-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:203:13-46
+165            android:exported="false"
+165-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:204:13-37
+166            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+166-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:205:13-72
+167        <activity
+167-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:206:9-212:20
+168            android:name="io.dcloud.WebviewActivity"
+168-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:207:13-53
+169            android:exported="false"
+169-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:208:13-37
+170            android:screenOrientation="portrait"
+170-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:209:13-49
+171            android:theme="@style/ThemeNoTitleBar"
+171-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:210:13-51
+172            android:windowSoftInputMode="adjustPan" >
+172-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:211:13-52
+173        </activity> <!-- gallery******start -->
+174        <activity
+174-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:215:9-220:63
+175            android:name="com.dmcbig.mediapicker.PickerActivity"
+175-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:216:13-65
+176            android:configChanges="orientation|screenSize"
+176-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:217:13-59
+177            android:exported="false"
+177-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:218:13-37
+178            android:theme="@style/DeviceDefault.Light"
+178-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:219:13-55
+179            android:windowSoftInputMode="stateAlwaysHidden" />
+179-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:220:13-60
+180        <activity
+180-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:221:9-226:63
+181            android:name="com.dmcbig.mediapicker.PreviewActivity"
+181-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:222:13-66
+182            android:configChanges="orientation|screenSize"
+182-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:223:13-59
+183            android:exported="false"
+183-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:224:13-37
+184            android:theme="@style/DeviceDefault.Light"
+184-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:225:13-55
+185            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- gallery******end -->
+185-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:226:13-60
+186        <provider
+186-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:229:9-237:20
+187            android:name="io.dcloud.common.util.DCloud_FileProvider"
+187-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:230:13-69
+188            android:authorities="com.sssh.keepalive.dc.fileprovider"
+188-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:231:13-67
+189            android:exported="false"
+189-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:232:13-37
+190            android:grantUriPermissions="true" >
+190-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:233:13-47
+191            <meta-data
+191-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:234:13-236:64
+192                android:name="android.support.FILE_PROVIDER_PATHS"
+192-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:235:17-67
+193                android:resource="@xml/dcloud_file_provider" />
+193-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:236:17-61
+194        </provider>
+195        <!--
+196            <meta-data
+197            android:name="DCLOUD_STREAMAPP_CHANNEL"
+198            android:value="io.dcloud.%APPID%|%APPID%|" />
+199        -->
+200        <meta-data
+200-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:244:9-246:35
+201            android:name="android.max_aspect"
+201-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:245:13-46
+202            android:value="2.4" />
+202-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:246:13-32
+203
+204        <activity
+204-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:248:9-253:63
+205            android:name="io.dcloud.feature.gallery.imageedit.IMGEditActivity"
+205-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:249:13-79
+206            android:configChanges="orientation|keyboardHidden|screenSize"
+206-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:250:13-74
+207            android:exported="false"
+207-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:251:13-37
+208            android:theme="@style/ImageEditTheme"
+208-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:252:13-50
+209            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- 广告相关配置开始 -->
+209-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:253:13-60
+210        <activity
+210-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:256:9-261:55
+211            android:name="io.dcloud.sdk.activity.WebViewActivity"
+211-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:257:13-66
+212            android:exported="false"
+212-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:258:13-37
+213            android:screenOrientation="portrait"
+213-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:259:13-49
+214            android:theme="@style/ThemeNoTitleBar"
+214-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:260:13-51
+215            android:windowSoftInputMode="adjustPan" />
+215-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:261:13-52
+216
+217        <service
+217-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:263:9-266:72
+218            android:name="io.dcloud.sdk.base.service.DownloadService"
+218-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:264:13-70
+219            android:exported="false"
+219-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:265:13-37
+220            android:permission="android.permission.BIND_JOB_SERVICE" />
+220-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:266:13-69
+221
+222        <provider
+222-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:268:9-276:20
+223            android:name="io.dcloud.sdk.base.service.provider.DCloudAdFileProvider"
+223-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:269:13-84
+224            android:authorities="com.sssh.keepalive.dc.fileprovider"
+224-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:270:13-67
+225            android:exported="false"
+225-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:271:13-37
+226            android:grantUriPermissions="true" >
+226-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:272:13-47
+227            <meta-data
+227-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:234:13-236:64
+228                android:name="android.support.FILE_PROVIDER_PATHS"
+228-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:235:17-67
+229                android:resource="@xml/dcloud_gg_file_provider" />
+229-->[lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\1da138e3f16ef4388348b4427eb55953\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:236:17-61
+230        </provider>
+231
+232        <receiver
+232-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:30:9-34:20
+233            android:name="com.taobao.weex.WXGlobalEventReceiver"
+233-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:31:13-65
+234            android:enabled="true"
+234-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:32:13-35
+235            android:exported="false" >
+235-->[uniapp-v8-release.aar] D:\tools\winJdk1.8\caches\transforms-3\98848667e742bf89a36eea5d5e3df1a0\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:33:13-37
+236        </receiver>
+237
+238        <activity
+238-->[:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:84
+239            android:name="io.dcloud.uniplugin.NativePageActivity"
+239-->[:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-66
+240            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+240-->[:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-81
+241        <activity
+241-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:27:9-34:20
+242            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+242-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:28:13-99
+243            android:exported="true"
+243-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:29:13-36
+244            android:theme="@style/WhiteBackgroundTheme" >
+244-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:30:13-56
+245            <intent-filter android:priority="-100" >
+245-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+245-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+246                <category android:name="android.intent.category.LAUNCHER" />
+246-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:17-77
+246-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:27-74
+247            </intent-filter>
+248        </activity>
+249        <activity
+249-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:35:9-42:20
+250            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+250-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:36:13-95
+251            android:exported="true"
+251-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:37:13-36
+252            android:theme="@style/WhiteBackgroundTheme" >
+252-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:38:13-56
+253            <intent-filter android:priority="-100" >
+253-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+253-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+254                <category android:name="android.intent.category.LAUNCHER" />
+254-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:17-77
+254-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:27-74
+255            </intent-filter>
+256        </activity>
+257        <activity
+257-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:43:9-50:20
+258            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+258-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:44:13-103
+259            android:exported="true"
+259-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:45:13-36
+260            android:theme="@style/WhiteBackgroundDialogTheme" >
+260-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:46:13-62
+261            <intent-filter android:priority="-100" >
+261-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+261-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\2b971e5af2065388bce227c959487472\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+262                <category android:name="android.intent.category.LAUNCHER" />
+262-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:17-77
+262-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:27-74
+263            </intent-filter>
+264        </activity>
+265    </application>
+266
+267</manifest>

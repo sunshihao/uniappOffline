@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.cmtietong.cmttRwfamily">
+    package="com.sssh.keepalive">
 
     <supports-screens
         android:anyDensity="true"
@@ -98,7 +98,7 @@
 
         <meta-data
             android:name="dcloud_appkey"
-            android:value="21a5f59c99a761c348c4293182ba4a35" />
+            android:value="20f8d89a44e39d69e46e745d5f8eabc3" />
     </application>
 
 </manifest>

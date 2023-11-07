@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.cmtietong.cmttRwfamily",
+  "applicationId": "com.sssh.keepalive",
   "variantName": "debug",
   "elements": [
     {

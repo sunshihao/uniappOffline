@@ -33,8 +33,8 @@
       "plugins": [
         {
           "type": "module",
-          "name": "alive",
-          "class": "com.example.keepalive.test"
+          "name": "keepAlive",
+          "class": "com.example.keepalive.KeepAlive"
         }
       ]
     }
