@@ -7,16 +7,18 @@ android {
 //        release {
 //        }
 //    }
-    compileSdkVersion 33
+    compileSdkVersion 31
+    buildToolsVersion '30.0.3'
 
     defaultConfig {
-        minSdkVersion 16
-        targetSdkVersion 33
+        minSdkVersion 21
+        targetSdkVersion 28
         versionCode 1
         versionName "1.0"
 
+        multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-//        consumerProguardFiles "consumer-rules.pro"
+        consumerProguardFiles "consumer-rules.pro"
     }
 
     buildTypes {
@@ -25,10 +27,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
-//    compileOptions {
-//        sourceCompatibility JavaVersion.VERSION_1_8
-//        targetCompatibility JavaVersion.VERSION_1_8
-//    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 //dependencies {
@@ -48,6 +50,9 @@ repositories {
 }
 
 dependencies {
+
+    def multidex_version = "2.0.1"
+
     testImplementation 'org.testng:testng:6.9.6'
 
     //必须添加的依赖
