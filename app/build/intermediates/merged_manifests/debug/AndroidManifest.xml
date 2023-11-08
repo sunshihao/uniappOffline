@@ -64,10 +64,13 @@
 
     <uses-permission android:name="com.asus.msa.SupplementaryDID.ACCESS" />
     <uses-permission android:name="freemme.permission.msa" />
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+    <uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
     <uses-permission android:name="android.permission.REORDER_TASKS" />
 
     <application
         android:name="io.dcloud.application.DCloudApplication"
+        android:allowBackup="true"
         android:allowClearUserData="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -238,6 +241,12 @@
         <activity
             android:name="io.dcloud.uniplugin.NativePageActivity"
             android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+
+        <service
+            android:name="com.example.keepalive.ForegroundService"
+            android:enabled="true"
+            android:exported="true" />
+
         <activity
             android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
             android:exported="true"

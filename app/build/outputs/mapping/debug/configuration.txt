@@ -284,6 +284,7 @@
 -keep class androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity { <init>(); }
 -keep class com.dmcbig.mediapicker.PickerActivity { <init>(); }
 -keep class com.dmcbig.mediapicker.PreviewActivity { <init>(); }
+-keep class com.example.keepalive.ForegroundService { <init>(); }
 -keep class com.sssh.keepalive.MainActivity { <init>(); }
 -keep class com.taobao.weex.WXGlobalEventReceiver { <init>(); }
 -keep class io.dcloud.PandoraEntry { <init>(); }
@@ -411,16 +412,16 @@
 
 
 # End of content from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\build\intermediates\aapt_proguard_file\debug\aapt_rules.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\ebd4b8f8bf749869c9649d186763a09a\transformed\jetified-android-gif-drawable-release@1.2.23\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\9aa026afa06b99e74201a507c8f0cced\transformed\jetified-android-gif-drawable-release@1.2.23\proguard.txt
 -keep public class pl.droidsonroids.gif.GifIOException{<init>(int, java.lang.String);}
 #Prevents warnings for consumers not using AndroidX
 -dontwarn androidx.annotation.**
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\ebd4b8f8bf749869c9649d186763a09a\transformed\jetified-android-gif-drawable-release@1.2.23\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\9aa026afa06b99e74201a507c8f0cced\transformed\jetified-android-gif-drawable-release@1.2.23\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\3f6da4fd38c1d50dd2926cd96be67d54\transformed\jetified-oaid_sdk_1.0.25\proguard.txt
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\6a76dd64dc1800b6adcc7129680a48bb\transformed\jetified-oaid_sdk_1.0.25\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\6f38f2533d3836eb2b2bf89342b45a1b\transformed\material-1.5.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\3f6da4fd38c1d50dd2926cd96be67d54\transformed\jetified-oaid_sdk_1.0.25\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\6b00b1a376361a18e289d1fab5ac198b\transformed\material-1.5.0\proguard.txt
 # Copyright (C) 2015 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -468,8 +469,8 @@
 }
 
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\6f38f2533d3836eb2b2bf89342b45a1b\transformed\material-1.5.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\6b00b1a376361a18e289d1fab5ac198b\transformed\material-1.5.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\5fc24f70390df64c5432ce83cb048c27\transformed\recyclerview-1.1.0\proguard.txt
 # Copyright (C) 2015 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -495,8 +496,8 @@
     public void suppressLayout(boolean);
     public boolean isLayoutSuppressed();
 }
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\4f1eed61ae41de6c36b06ece2c342fa8\transformed\jetified-glide-4.9.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\5fc24f70390df64c5432ce83cb048c27\transformed\recyclerview-1.1.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\0f2172174e0ee5d2aef5d199ffd8fd91\transformed\jetified-glide-4.9.0\proguard.txt
 -keep public class * implements com.bumptech.glide.module.GlideModule
 -keep public class * extends com.bumptech.glide.module.AppGlideModule
 -keep public enum com.bumptech.glide.load.ImageHeaderParser$** {
@@ -506,8 +507,8 @@
 
 # Uncomment for DexGuard only
 #-keepresourcexmlelements manifest/application/meta-data@value=GlideModule
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\4f1eed61ae41de6c36b06ece2c342fa8\transformed\jetified-glide-4.9.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\837b7e6f63914ba2f50fb48c4ce1f454\transformed\webkit-1.3.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\0f2172174e0ee5d2aef5d199ffd8fd91\transformed\jetified-glide-4.9.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\f28440e5ab94d06bfc3ca1aa2b93e80e\transformed\webkit-1.3.0\proguard.txt
 # Copyright 2018 The Chromium Authors. All rights reserved.
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
@@ -536,8 +537,8 @@
 -keepnames public class androidx.webkit.WebViewClientCompat
 
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\837b7e6f63914ba2f50fb48c4ce1f454\transformed\webkit-1.3.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\c6ae6879a32cbadd13bc2a75329a046f\transformed\appcompat-1.2.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\f28440e5ab94d06bfc3ca1aa2b93e80e\transformed\webkit-1.3.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\b90d13b9b6d94cbd141b896aec1a9fa3\transformed\appcompat-1.2.0\proguard.txt
 # Copyright (C) 2018 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -561,8 +562,8 @@
   <methods>;
 }
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\c6ae6879a32cbadd13bc2a75329a046f\transformed\appcompat-1.2.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\b90d13b9b6d94cbd141b896aec1a9fa3\transformed\appcompat-1.2.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\20d15076afc487be0d34f4cbfb83cd11\transformed\coordinatorlayout-1.1.0\proguard.txt
 # Copyright (C) 2016 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -586,8 +587,8 @@
 # Make sure we keep annotations for CoordinatorLayout's DefaultBehavior and ViewPager's DecorView
 -keepattributes *Annotation*
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\20d15076afc487be0d34f4cbfb83cd11\transformed\coordinatorlayout-1.1.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\ca79429113733c9ce21fd125f885b231\transformed\transition-1.2.0\proguard.txt
 # Copyright (C) 2017 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -607,8 +608,8 @@
   androidx.transition.ChangeBounds$ViewBounds mViewBounds;
 }
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\ca79429113733c9ce21fd125f885b231\transformed\transition-1.2.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\7a8c07d9f0eb539854e569eea57f8ed9\transformed\vectordrawable-animated-1.1.0\proguard.txt
 # Copyright (C) 2016 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -629,8 +630,8 @@
    *** get*();
 }
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\540dbfb90b248d7b59cd154497c15f99\transformed\core-1.5.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\7a8c07d9f0eb539854e569eea57f8ed9\transformed\vectordrawable-animated-1.1.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\a6861fe418f83c6f043fb49c99e83e3b\transformed\core-1.5.0\proguard.txt
 # Never inline methods, but allow shrinking and obfuscation.
 -keepclassmembernames,allowobfuscation,allowshrinking class androidx.core.view.ViewCompat$Api* {
   <methods>;
@@ -642,18 +643,18 @@
   <methods>;
 }
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\540dbfb90b248d7b59cd154497c15f99\transformed\core-1.5.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\a6861fe418f83c6f043fb49c99e83e3b\transformed\core-1.5.0\proguard.txt
 # The proguard configuration file for the following section is D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\consumer_proguard_dir\debug\lib0\proguard.txt
 
 # End of content from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\consumer_proguard_dir\debug\lib0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\d2af932c8ac47ae3f67f2b5a449ac912\transformed\versionedparcelable-1.1.1\proguard.txt
 -keep class * implements androidx.versionedparcelable.VersionedParcelable
 -keep public class android.support.**Parcelizer { *; }
 -keep public class androidx.**Parcelizer { *; }
 -keep public class androidx.versionedparcelable.ParcelImpl
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\3d95435086a18d2d90654816bc602dba\transformed\monitor-1.6.1\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\d2af932c8ac47ae3f67f2b5a449ac912\transformed\versionedparcelable-1.1.1\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\c8cc6719d016f49383f679750ce3de57\transformed\monitor-1.6.1\proguard.txt
 # Proguard flags for the AndroidJUnitRunner library.
 
 # avoid obfuscation of the instrumentation runners and orchestrator
@@ -667,8 +668,8 @@
 
 # for class com.google.errorprone.annotations.InlineMe is not in the runtime classpath
 -dontwarn com.google.errorprone.annotations.InlineMe
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\3d95435086a18d2d90654816bc602dba\transformed\monitor-1.6.1\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\f49b78dbffcb25c653a9272c5a4b37ce\transformed\lifecycle-runtime-2.1.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\c8cc6719d016f49383f679750ce3de57\transformed\monitor-1.6.1\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\1cff13f1722e9c3895baca40fc0557d2\transformed\lifecycle-runtime-2.1.0\proguard.txt
 -keepattributes *Annotation*
 
 -keepclassmembers enum androidx.lifecycle.Lifecycle$Event {
@@ -685,8 +686,8 @@
 -keepclassmembers class ** {
     @androidx.lifecycle.OnLifecycleEvent *;
 }
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\f49b78dbffcb25c653a9272c5a4b37ce\transformed\lifecycle-runtime-2.1.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\7d26d4d81ad468097d02c6ee09ec89bb\transformed\lifecycle-viewmodel-2.1.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\1cff13f1722e9c3895baca40fc0557d2\transformed\lifecycle-runtime-2.1.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\4fd2afc4ff818fcf23bffc22e5992c7e\transformed\lifecycle-viewmodel-2.1.0\proguard.txt
 -keepclassmembers,allowobfuscation class * extends androidx.lifecycle.ViewModel {
     <init>();
 }
@@ -695,8 +696,8 @@
     <init>(android.app.Application);
 }
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\7d26d4d81ad468097d02c6ee09ec89bb\transformed\lifecycle-viewmodel-2.1.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\8b121b5d984b51c1f4f09cfda50daec3\transformed\jetified-savedstate-1.0.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\4fd2afc4ff818fcf23bffc22e5992c7e\transformed\lifecycle-viewmodel-2.1.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\dd23d12a6f06dd64bb8ae81092b8517b\transformed\jetified-savedstate-1.0.0\proguard.txt
 # Copyright (C) 2019 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -715,8 +716,8 @@
     <init>();
 }
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\8b121b5d984b51c1f4f09cfda50daec3\transformed\jetified-savedstate-1.0.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\f345e25a1039c8b385b2408eef4417e0\transformed\rules\lib\META-INF\proguard\androidx-annotations.pro
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\dd23d12a6f06dd64bb8ae81092b8517b\transformed\jetified-savedstate-1.0.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\cb5cdc8dba2afb910640927dbac49b6d\transformed\rules\lib\META-INF\proguard\androidx-annotations.pro
 -keep,allowobfuscation @interface androidx.annotation.Keep
 -keep @androidx.annotation.Keep class * {*;}
 
@@ -736,8 +737,8 @@
   @androidx.annotation.DoNotInline <methods>;
 }
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\f345e25a1039c8b385b2408eef4417e0\transformed\rules\lib\META-INF\proguard\androidx-annotations.pro
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\a69ea7a076594fa82c65a9ef8f42fa38\transformed\jetified-fbcore-1.13.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\cb5cdc8dba2afb910640927dbac49b6d\transformed\rules\lib\META-INF\proguard\androidx-annotations.pro
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\d7feed257b5148a3a79a220dc965e1b6\transformed\jetified-fbcore-1.13.0\proguard.txt
 # Keep our interfaces so they can be used by other ProGuard rules.
 # See http://sourceforge.net/p/proguard/bugs/466/
 -keep,allowobfuscation @interface com.facebook.common.internal.DoNotStrip
@@ -767,8 +768,8 @@
 -dontwarn com.android.volley.toolbox.**
 -dontwarn com.facebook.infer.**
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\a69ea7a076594fa82c65a9ef8f42fa38\transformed\jetified-fbcore-1.13.0\proguard.txt
-# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\d7feed257b5148a3a79a220dc965e1b6\transformed\jetified-fbcore-1.13.0\proguard.txt
+# The proguard configuration file for the following section is D:\tools\winJdk1.8\caches\transforms-3\1d7c60393a2128cb61c47b02eac37b67\transformed\jetified-annotation-experimental-1.1.0\proguard.txt
 # Copyright (C) 2020 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -793,7 +794,7 @@
 -dontwarn kotlin.annotation.Retention
 -dontwarn kotlin.annotation.Target
 
-# End of content from D:\tools\winJdk1.8\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\proguard.txt
+# End of content from D:\tools\winJdk1.8\caches\transforms-3\1d7c60393a2128cb61c47b02eac37b67\transformed\jetified-annotation-experimental-1.1.0\proguard.txt
 # The proguard configuration file for the following section is <unknown>
 -ignorewarnings
 # End of content from <unknown>

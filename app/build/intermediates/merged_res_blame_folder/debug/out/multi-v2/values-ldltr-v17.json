@@ -4,7 +4,7 @@
             "outputFile": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v17\\values-ldltr-v17.xml",
             "map": [
                 {
-                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\98848667e742bf89a36eea5d5e3df1a0\\transformed\\jetified-uniapp-v8-release\\res\\values-ldltr-v17\\values-ldltr-v17.xml",
+                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\e88d6052239987c50cd9930fe1d32157\\transformed\\jetified-uniapp-v8-release\\res\\values-ldltr-v17\\values-ldltr-v17.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

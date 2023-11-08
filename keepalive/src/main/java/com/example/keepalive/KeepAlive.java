@@ -1,8 +1,13 @@
 package com.example.keepalive;
 
+import android.app.Activity;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.preference.PreferenceManager;
 import android.util.Log;
 
 import com.alibaba.fastjson.JSONObject;
+import com.example.keepalive.bean.GlobalParams;
 
 import io.dcloud.feature.uniapp.annotation.UniJSMethod;
 import io.dcloud.feature.uniapp.bridge.UniJSCallback;
@@ -21,8 +26,16 @@ public class KeepAlive extends UniModule {
     /**
      * 测试主程序调用
      * */
-//    @UniJSMethod(uiThread = true)
-    public void test (String name) {
-        Log.i("name", name);
+    @UniJSMethod(uiThread = true)
+    public void startServiceNew (Activity activity) {
+
+        Log.i("sssh", "999999999999999");
+
+        new GlobalParams().setActivity(activity);
+
+
+        Log.i("-------", "XXXXX");
+        Intent intent = new Intent(activity, ForegroundService.class);
+        activity.startService(intent);
     }
 }

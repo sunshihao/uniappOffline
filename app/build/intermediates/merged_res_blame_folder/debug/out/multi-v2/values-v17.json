@@ -4,7 +4,7 @@
             "outputFile": "D:\\workspace\\Oct\\uni_android\\Android-SDK@3.8.12.81924_20230817\\Android-SDK@3.8.12.81924_20230817\\UniPlugin-Hello-AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\c6ae6879a32cbadd13bc2a75329a046f\\transformed\\appcompat-1.2.0\\res\\values-v17\\values-v17.xml",
+                    "source": "D:\\tools\\winJdk1.8\\caches\\transforms-3\\b90d13b9b6d94cbd141b896aec1a9fa3\\transformed\\appcompat-1.2.0\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
