@@ -20,6 +20,8 @@ public class ForegroundService extends Service {
 
     private Timer timer;
 
+    private int logInt = 0;
+
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
@@ -37,7 +39,7 @@ public class ForegroundService extends Service {
         this.timer.schedule(new TimerTask() {
             @Override
             public void run() {
-                Log.d("ForegroundService", "Timer task ${logInt++}");
+                Log.d("ForegroundService", "Timer task " + logInt++);
             }
         }, 0L, 1000L);
 

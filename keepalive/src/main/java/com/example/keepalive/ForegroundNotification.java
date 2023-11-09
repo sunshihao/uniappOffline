@@ -1,6 +1,5 @@
 package com.example.keepalive;
 
-import android.app.Activity;
 import android.app.Notification;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -10,14 +9,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.service.notification.StatusBarNotification;
-import android.util.Log;
-
 import androidx.core.app.NotificationCompat;
-
-import com.taobao.weex.common.WXModule;
-
-import io.dcloud.feature.uniapp.UniSDKInstance;
-import io.dcloud.feature.uniapp.common.UniModule;
 
 public class ForegroundNotification extends KeepAlive {
 
@@ -25,12 +17,6 @@ public class ForegroundNotification extends KeepAlive {
     private Service service = null;
     private int NOTICE_ID = 2333;
 
-    private Context context;
-
-
-//    ForegroundNotification(Context context){
-//        this.context = context;
-//    }
     private void createChannelIfNeeded(Context context){
 
         // 创建创建通知渠道 https://developer.android.com/develop/ui/views/notifications/channels?hl=zh-cn#java
@@ -53,19 +39,6 @@ public class ForegroundNotification extends KeepAlive {
 
         this.service = service;
         createChannelIfNeeded(service);
-
-//        UniSDKInstance uniSDKInstance = new UniSDKInstance();
-//        Context xcontext = uniSDKInstance.getContext();
-
-//        Activity activity = (Activity) this.mWXSDKInstance.getContext();
-//
-//        Log.i("aaaxxx22", activity + "");
-//
-//        Log.i("aaaxxx", xcontext + "");
-//
-//        Log.i("aaaxxx111", this.context + "");
-
-        // 居然是這樣
 
         PendingIntent pendingIntent = PendingIntent.getActivity(service,0, new Intent(service, service.getClass()), PendingIntent.FLAG_UPDATE_CURRENT);
 
