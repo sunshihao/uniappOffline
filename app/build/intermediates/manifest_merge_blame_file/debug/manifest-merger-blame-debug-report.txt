@@ -131,11 +131,11 @@
 66-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\3f6da4fd38c1d50dd2926cd96be67d54\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:5-62
 66-->[oaid_sdk_1.0.25.aar] D:\tools\winJdk1.8\caches\transforms-3\3f6da4fd38c1d50dd2926cd96be67d54\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:22-59
 67    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
-67-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-95
-67-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-92
+67-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-95
+67-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-92
 68    <uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
-68-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-85
-68-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-82
+68-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-85
+68-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-82
 69    <uses-permission android:name="android.permission.REORDER_TASKS" />
 69-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\0b1d1a3ecf9cf019d792ba7f42d057a4\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:5-72
 69-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\0b1d1a3ecf9cf019d792ba7f42d057a4\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:22-69
@@ -145,7 +145,7 @@
 72        android:name="io.dcloud.application.DCloudApplication"
 72-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:38:9-63
 73        android:allowBackup="true"
-73-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-35
+73-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-35
 74        android:allowClearUserData="true"
 74-->D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:39:9-42
 75        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -462,13 +462,13 @@
 243-->[:uniplugin_module] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-81
 244
 245        <service
-245-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-19:39
+245-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-20:39
 246            android:name="com.example.keepalive.ForegroundService"
-246-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-67
+246-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-67
 247            android:enabled="true"
-247-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-35
+247-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-35
 248            android:exported="true" />
-248-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-36
+248-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-36
 249
 250        <activity
 250-->[androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\0b1d1a3ecf9cf019d792ba7f42d057a4\transformed\jetified-core-1.5.0\AndroidManifest.xml:27:9-34:20

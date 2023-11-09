@@ -94,5 +94,5 @@ dependencies {
 
     // 保活
 //    implementation (':alive')
-    implementation project(path: ':keepalive')
+    implementation project(':keepalive')
 }

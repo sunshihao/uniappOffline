@@ -13,12 +13,12 @@ import com.example.keepalive.bean.GlobalParams;
 import java.util.Timer;
 import java.util.TimerTask;
 
+import io.dcloud.feature.uniapp.common.UniModule;
+
 // 可执行前台服务
 public class ForegroundService extends Service {
 
     private Timer timer;
-
-    Activity activity = new GlobalParams().getActivity();;
 
     @Nullable
     @Override
@@ -30,7 +30,7 @@ public class ForegroundService extends Service {
     public void onCreate() {
         super.onCreate();
 
-        new ForegroundNotification().startForeground(this, activity);
+        new ForegroundNotification().startForeground(this);
 
         this.timer = new Timer();
 
@@ -49,7 +49,7 @@ public class ForegroundService extends Service {
             return START_NOT_STICKY;
         }
 
-        new ForegroundNotification().startForegroundIfNeed(this, activity);
+        new ForegroundNotification().startForegroundIfNeed(this);
 
         // TODO 难为我胖虎
 

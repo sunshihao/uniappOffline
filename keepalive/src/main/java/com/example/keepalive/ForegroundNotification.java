@@ -10,18 +10,27 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.service.notification.StatusBarNotification;
+import android.util.Log;
 
 import androidx.core.app.NotificationCompat;
 
-public class ForegroundNotification {
+import com.taobao.weex.common.WXModule;
+
+import io.dcloud.feature.uniapp.UniSDKInstance;
+import io.dcloud.feature.uniapp.common.UniModule;
+
+public class ForegroundNotification extends KeepAlive {
 
     private String CHANNEL_FOREGROUND = "foreground-notification";
     private Service service = null;
-
     private int NOTICE_ID = 2333;
 
+    private Context context;
 
 
+//    ForegroundNotification(Context context){
+//        this.context = context;
+//    }
     private void createChannelIfNeeded(Context context){
 
         // 创建创建通知渠道 https://developer.android.com/develop/ui/views/notifications/channels?hl=zh-cn#java
@@ -40,12 +49,25 @@ public class ForegroundNotification {
     }
 
     // 变更为传入指定的activity
-    public void startForeground(Service service, Activity mainActivity){
+    public void startForeground(Service service){
 
         this.service = service;
         createChannelIfNeeded(service);
 
-        PendingIntent pendingIntent = PendingIntent.getActivity(service,0, new Intent(service, mainActivity.getClass()), PendingIntent.FLAG_UPDATE_CURRENT);
+//        UniSDKInstance uniSDKInstance = new UniSDKInstance();
+//        Context xcontext = uniSDKInstance.getContext();
+
+//        Activity activity = (Activity) this.mWXSDKInstance.getContext();
+//
+//        Log.i("aaaxxx22", activity + "");
+//
+//        Log.i("aaaxxx", xcontext + "");
+//
+//        Log.i("aaaxxx111", this.context + "");
+
+        // 居然是這樣
+
+        PendingIntent pendingIntent = PendingIntent.getActivity(service,0, new Intent(service, service.getClass()), PendingIntent.FLAG_UPDATE_CURRENT);
 
         Notification notification = new NotificationCompat.Builder(service, this.CHANNEL_FOREGROUND).setContentText("提示内容")
                 .setContentIntent(pendingIntent)
@@ -68,7 +90,7 @@ public class ForegroundNotification {
         service.stopForeground(true);
     }
 
-    public void startForegroundIfNeed(Service service, Activity mainActivity ){
+    public void startForegroundIfNeed(Service service){
         NotificationManager manager = (NotificationManager)service.getSystemService(Service.NOTIFICATION_SERVICE);
         boolean needStart = true;
 
@@ -81,7 +103,7 @@ public class ForegroundNotification {
         }
 
         if (needStart) {
-            this.startForeground(service, mainActivity);
+            this.startForeground(service);
         }
     }
 }

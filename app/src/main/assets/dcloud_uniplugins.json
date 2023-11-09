@@ -33,7 +33,7 @@
       "plugins": [
         {
           "type": "module",
-          "name": "keepAlive",
+          "name": "keepalive",
           "class": "com.example.keepalive.KeepAlive"
         }
       ]
