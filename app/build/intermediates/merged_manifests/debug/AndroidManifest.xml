@@ -243,7 +243,7 @@
             android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
 
         <service
-            android:name="com.example.keepalive.ForegroundService"
+            android:name="com.example.keepalive.service.ForegroundService"
             android:enabled="true"
             android:exported="true" />
 

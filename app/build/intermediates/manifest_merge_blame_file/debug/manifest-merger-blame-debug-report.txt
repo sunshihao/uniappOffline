@@ -463,8 +463,8 @@
 244
 245        <service
 245-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-20:39
-246            android:name="com.example.keepalive.ForegroundService"
-246-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-67
+246            android:name="com.example.keepalive.service.ForegroundService"
+246-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-75
 247            android:enabled="true"
 247-->[:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-35
 248            android:exported="true" />

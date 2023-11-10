@@ -645,14 +645,14 @@ uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
 ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-85
 	android:name
 		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-82
-service#com.example.keepalive.ForegroundService
+service#com.example.keepalive.service.ForegroundService
 ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-20:39
 	android:enabled
 		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-35
 	android:exported
 		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-67
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-75
 uses-permission#android.permission.REORDER_TASKS
 ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\0b1d1a3ecf9cf019d792ba7f42d057a4\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:5-72
 	android:name
