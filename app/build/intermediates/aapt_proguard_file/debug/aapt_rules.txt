@@ -4,6 +4,7 @@
 -keep class androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity { <init>(); }
 -keep class com.dmcbig.mediapicker.PickerActivity { <init>(); }
 -keep class com.dmcbig.mediapicker.PreviewActivity { <init>(); }
+-keep class com.example.keepalive.service.CancelNoticeService { <init>(); }
 -keep class com.example.keepalive.service.ForegroundService { <init>(); }
 -keep class com.sssh.keepalive.MainActivity { <init>(); }
 -keep class com.taobao.weex.WXGlobalEventReceiver { <init>(); }

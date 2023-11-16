@@ -1,14 +1,19 @@
 package com.example.keepalive;
 
+import android.Manifest;
 import android.app.Activity;
 import android.app.ActivityManager;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Build;
 import android.provider.Settings;
 import android.util.Log;
+
+import androidx.core.app.ActivityCompat;
+
 import com.alibaba.fastjson.JSONObject;
 import com.example.keepalive.bean.UniBackResponse;
 import com.example.keepalive.service.ForegroundService;
@@ -57,9 +62,20 @@ public class KeepAlive extends UniModule {
      * */
     @UniJSMethod(uiThread = true)
     public void startService (UniJSCallback callback) {
+
         UniBackResponse uniBackResponse;
+
+        Context context = (Activity)mWXSDKInstance.getContext();
+        // 获取定位权限
+        // 判断当前是否拥有使用GPS的权限
+        if (ActivityCompat.checkSelfPermission(context, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED)
+        {
+            // 申请权限
+            ActivityCompat.requestPermissions((Activity) context, new String[] {Manifest.permission.ACCESS_FINE_LOCATION}, 100);
+        }
+
         try{
-            Context context = (Activity)mWXSDKInstance.getContext();
+
             Intent intent = new Intent(context, ForegroundService.class);
             context.startService(intent);
             if (callback != null) {

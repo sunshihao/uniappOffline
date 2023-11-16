@@ -2652,6 +2652,9 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
+drawable ic_launcher
+drawable ic_launcher_background
+drawable ic_launcher_foreground
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
@@ -3612,6 +3615,8 @@ mipmap dcloud_gallery_edit_ok
 mipmap dcloud_gallery_edit_revert
 mipmap dcloud_gallery_edit_rotate
 mipmap dcloud_gallery_edit_text
+mipmap ic_launcher
+mipmap ic_launcher_round
 mipmap image_ic_adjust
 mipmap image_ic_delete
 mipmap image_ic_undo

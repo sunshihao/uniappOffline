@@ -9,9 +9,13 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.service.notification.StatusBarNotification;
+import android.util.Log;
+
 import androidx.core.app.NotificationCompat;
 
 import com.example.keepalive.KeepAlive;
+
+import uni.dcloud.io.keepalive.R;
 
 public class ForegroundNotification extends KeepAlive {
 
@@ -29,7 +33,6 @@ public class ForegroundNotification extends KeepAlive {
             foregroundChannel.enableLights(false);
             foregroundChannel.enableVibration(false);
             foregroundChannel.setLockscreenVisibility(Notification.VISIBILITY_SECRET);
-
             // 切换成JAVA写法
             NotificationManager notificationManager = context.getSystemService(NotificationManager.class);
             notificationManager.createNotificationChannel(foregroundChannel);
@@ -42,9 +45,28 @@ public class ForegroundNotification extends KeepAlive {
         this.service = service;
         createChannelIfNeeded(service);
 
-        PendingIntent pendingIntent = PendingIntent.getActivity(service,0, new Intent(service, service.getClass()), PendingIntent.FLAG_UPDATE_CURRENT);
 
-        Notification notification = new NotificationCompat.Builder(service, this.CHANNEL_FOREGROUND).setContentText("提示内容")
+
+
+        Log.i("----", service.getBaseContext().getClass().toString());
+        Log.i("----", service.getClass().toString());
+        String kPackage = service.getPackageName();
+        Intent launchIntent = service.getPackageManager().getLaunchIntentForPackage(kPackage);
+        String className = launchIntent.getComponent().getClassName();
+        Log.i("----", className);
+        Class clazz = null;
+
+        try{
+            clazz = Class.forName(className);
+        }catch (Error | ClassNotFoundException e){
+
+        }
+
+        PendingIntent pendingIntent = PendingIntent.getActivity(service,0, new Intent(service, clazz), PendingIntent.FLAG_UPDATE_CURRENT);
+
+        Notification notification = new NotificationCompat.Builder(service, this.CHANNEL_FOREGROUND)
+                .setSmallIcon(R.mipmap.ic_launcher)
+                .setContentText("后台持续运行中")
                 .setContentIntent(pendingIntent)
                 .setLocalOnly(true)
                 .setPriority(NotificationCompat.PRIORITY_MIN)

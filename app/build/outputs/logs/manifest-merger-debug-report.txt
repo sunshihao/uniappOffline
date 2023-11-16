@@ -37,7 +37,7 @@ MERGED from [androidx.customview:customview:1.1.0] D:\tools\winJdk1.8\caches\tra
 MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\a6861fe418f83c6f043fb49c99e83e3b\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
 MERGED from [:uniplugin_richalert] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\uniplugin_richalert\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.test.ext:junit:1.1.5] D:\tools\winJdk1.8\caches\transforms-3\257c899a51bf2954c07f2119446781fd\transformed\jetified-junit-1.1.5\AndroidManifest.xml:17:1-24:12
-MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-36:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\f8a773f9da3c52cb6dec7440811e6cd1\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\d2af932c8ac47ae3f67f2b5a449ac912\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.cardview:cardview:1.0.0] D:\tools\winJdk1.8\caches\transforms-3\92db8b056a3a8689ac95228af19f9113\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -103,6 +103,8 @@ uses-permission#android.permission.INTERNET
 ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:13:5-67
 MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\734ed98dff25a0faa1d6d99871e9d85b\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:20:5-67
 MERGED from [lib.5plus.base-release.aar] D:\tools\winJdk1.8\caches\transforms-3\734ed98dff25a0faa1d6d99871e9d85b\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:20:5-67
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-67
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-67
 	android:name
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:13:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -117,6 +119,8 @@ ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Androi
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:15:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
 ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:16:5-76
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-76
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-76
 	android:name
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:16:22-73
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -189,8 +193,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\tools\winJdk1.8\caches\transforms-3\13f7e6968c23b43c473e840782c4f018\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\a6861fe418f83c6f043fb49c99e83e3b\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\a6861fe418f83c6f043fb49c99e83e3b\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
-MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-21:19
-MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-21:19
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:5-34:19
+MERGED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:5-34:19
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\f8a773f9da3c52cb6dec7440811e6cd1\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] D:\tools\winJdk1.8\caches\transforms-3\f8a773f9da3c52cb6dec7440811e6cd1\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\tools\winJdk1.8\caches\transforms-3\d2af932c8ac47ae3f67f2b5a449ac912\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
@@ -210,7 +214,7 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] D:\tools\winJdk1.8\caches\tra
 	android:allowClearUserData
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:39:9-42
 	android:allowBackup
-		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-35
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-35
 	android:largeHeap
 		ADDED from D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:42:9-33
 	android:icon
@@ -645,14 +649,30 @@ uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
 ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-85
 	android:name
 		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-82
-service#com.example.keepalive.service.ForegroundService
-ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-20:39
-	android:enabled
-		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-35
-	android:exported
-		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-36
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-75
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:22-76
+service#com.example.keepalive.service.ForegroundService
+ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-29:39
+	android:enabled
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-35
+	android:exported
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-75
+service#com.example.keepalive.service.CancelNoticeService
+ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:9-33:39
+	android:enabled
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [:keepalive] D:\workspace\Oct\uni_android\Android-SDK@3.8.12.81924_20230817\Android-SDK@3.8.12.81924_20230817\UniPlugin-Hello-AS\keepalive\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-77
 uses-permission#android.permission.REORDER_TASKS
 ADDED from [androidx.test:core:1.5.0] D:\tools\winJdk1.8\caches\transforms-3\0b1d1a3ecf9cf019d792ba7f42d057a4\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:5-72
 	android:name
